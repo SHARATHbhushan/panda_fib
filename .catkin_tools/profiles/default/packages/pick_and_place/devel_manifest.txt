@@ -1,0 +1,23 @@
+franka_panda/pick_and_place
+/home/acefly/robot_fib/devel/.private/pick_and_place/cmake.lock /home/acefly/robot_fib/devel/./cmake.lock
+/home/acefly/robot_fib/devel/.private/pick_and_place/share/gennodejs/ros/pick_and_place/_index.js /home/acefly/robot_fib/devel/share/gennodejs/ros/pick_and_place/_index.js
+/home/acefly/robot_fib/devel/.private/pick_and_place/share/gennodejs/ros/pick_and_place/msg/Grasp.js /home/acefly/robot_fib/devel/share/gennodejs/ros/pick_and_place/msg/Grasp.js
+/home/acefly/robot_fib/devel/.private/pick_and_place/share/gennodejs/ros/pick_and_place/msg/_index.js /home/acefly/robot_fib/devel/share/gennodejs/ros/pick_and_place/msg/_index.js
+/home/acefly/robot_fib/devel/.private/pick_and_place/share/pick_and_place/cmake/pick_and_place-msg-extras.cmake /home/acefly/robot_fib/devel/share/pick_and_place/cmake/pick_and_place-msg-extras.cmake
+/home/acefly/robot_fib/devel/.private/pick_and_place/share/pick_and_place/cmake/pick_and_placeConfig.cmake /home/acefly/robot_fib/devel/share/pick_and_place/cmake/pick_and_placeConfig.cmake
+/home/acefly/robot_fib/devel/.private/pick_and_place/share/pick_and_place/cmake/pick_and_place-msg-paths.cmake /home/acefly/robot_fib/devel/share/pick_and_place/cmake/pick_and_place-msg-paths.cmake
+/home/acefly/robot_fib/devel/.private/pick_and_place/share/pick_and_place/cmake/pick_and_placeConfig-version.cmake /home/acefly/robot_fib/devel/share/pick_and_place/cmake/pick_and_placeConfig-version.cmake
+/home/acefly/robot_fib/devel/.private/pick_and_place/share/roseus/ros/pick_and_place/manifest.l /home/acefly/robot_fib/devel/share/roseus/ros/pick_and_place/manifest.l
+/home/acefly/robot_fib/devel/.private/pick_and_place/share/roseus/ros/pick_and_place/msg/Grasp.l /home/acefly/robot_fib/devel/share/roseus/ros/pick_and_place/msg/Grasp.l
+/home/acefly/robot_fib/devel/.private/pick_and_place/share/common-lisp/ros/pick_and_place/msg/_package.lisp /home/acefly/robot_fib/devel/share/common-lisp/ros/pick_and_place/msg/_package.lisp
+/home/acefly/robot_fib/devel/.private/pick_and_place/share/common-lisp/ros/pick_and_place/msg/Grasp.lisp /home/acefly/robot_fib/devel/share/common-lisp/ros/pick_and_place/msg/Grasp.lisp
+/home/acefly/robot_fib/devel/.private/pick_and_place/share/common-lisp/ros/pick_and_place/msg/_package_Grasp.lisp /home/acefly/robot_fib/devel/share/common-lisp/ros/pick_and_place/msg/_package_Grasp.lisp
+/home/acefly/robot_fib/devel/.private/pick_and_place/share/common-lisp/ros/pick_and_place/msg/pick_and_place-msg.asd /home/acefly/robot_fib/devel/share/common-lisp/ros/pick_and_place/msg/pick_and_place-msg.asd
+/home/acefly/robot_fib/devel/.private/pick_and_place/include/pick_and_place/Grasp.h /home/acefly/robot_fib/devel/include/pick_and_place/Grasp.h
+/home/acefly/robot_fib/devel/.private/pick_and_place/lib/python3/dist-packages/pick_and_place/__init__.py /home/acefly/robot_fib/devel/lib/python3/dist-packages/pick_and_place/__init__.py
+/home/acefly/robot_fib/devel/.private/pick_and_place/lib/python3/dist-packages/pick_and_place/msg/_Grasp.py /home/acefly/robot_fib/devel/lib/python3/dist-packages/pick_and_place/msg/_Grasp.py
+/home/acefly/robot_fib/devel/.private/pick_and_place/lib/python3/dist-packages/pick_and_place/msg/__init__.py /home/acefly/robot_fib/devel/lib/python3/dist-packages/pick_and_place/msg/__init__.py
+/home/acefly/robot_fib/devel/.private/pick_and_place/lib/python3/dist-packages/pick_and_place_module/__init__.py /home/acefly/robot_fib/devel/lib/python3/dist-packages/pick_and_place_module/__init__.py
+/home/acefly/robot_fib/devel/.private/pick_and_place/lib/pkgconfig/pick_and_place.pc /home/acefly/robot_fib/devel/lib/pkgconfig/pick_and_place.pc
+/home/acefly/robot_fib/devel/.private/pick_and_place/lib/pick_and_place/main.py /home/acefly/robot_fib/devel/lib/pick_and_place/main.py
+/home/acefly/robot_fib/devel/.private/pick_and_place/lib/pick_and_place/cmake.lock /home/acefly/robot_fib/devel/lib/pick_and_place/cmake.lock

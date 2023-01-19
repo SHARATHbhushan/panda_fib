@@ -1,0 +1,5 @@
+pick_place
+/home/acefly/robot_fib/devel/.private/pick_place/cmake.lock /home/acefly/robot_fib/devel/./cmake.lock
+/home/acefly/robot_fib/devel/.private/pick_place/share/pick_place/cmake/pick_placeConfig-version.cmake /home/acefly/robot_fib/devel/share/pick_place/cmake/pick_placeConfig-version.cmake
+/home/acefly/robot_fib/devel/.private/pick_place/share/pick_place/cmake/pick_placeConfig.cmake /home/acefly/robot_fib/devel/share/pick_place/cmake/pick_placeConfig.cmake
+/home/acefly/robot_fib/devel/.private/pick_place/lib/pkgconfig/pick_place.pc /home/acefly/robot_fib/devel/lib/pkgconfig/pick_place.pc
